@@ -1,0 +1,1 @@
+Before starting the experiments we preprocess the data, removing empty and repeated lines from the English training set and lines from dev and test sets that are empty in any of the HR languages.
